@@ -1,0 +1,23 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Data structures in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenkumarcbm/ds.git"
+  },
+  "keywords": [
+    "DS",
+    "Javascript"
+  ],
+  "author": "Naveen kumar (naveenkumarcbm@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenkumarcbm/ds/issues"
+  },
+  "homepage": "https://github.com/naveenkumarcbm/ds#readme"
+}
